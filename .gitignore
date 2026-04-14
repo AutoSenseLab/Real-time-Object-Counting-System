@@ -1,0 +1,22 @@
+# Model weights
+*.pt
+*.h5
+*.pkl
+
+# Video files (ใหญ่เกินไป)
+*.mp4
+*.avi
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
+
+.claude
