@@ -17,7 +17,7 @@ project นี้สร้างขึ้นเพื่อแสดงให้
 
 ## Demo
 
-![Demo](Demo\test_output.gif)
+![Demo](Demo/test_output.gif)
 
 ทดสอบกับ video จำลอง (pedestrian tracking)
 เนื่องจาก data จริงจากสถานที่จริงไม่สามารถเปิดเผยได้
